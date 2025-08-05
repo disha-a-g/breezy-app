@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="supabase_api_key" templateMergeStrategy="preserve" translatable="false">
+        eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imlzd3BwbHpja3dvb253ZWxzZ3p6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE0OTEwNjEsImV4cCI6MjA1NzA2NzA2MX0.5-ij-QfgVeoz_Ajwgqi4qvvImhdADrSpgWFp4hoalYk
+    </string>
+    <string name="supabase_url" templateMergeStrategy="preserve" translatable="false">
+        https://iswpplzckwoonwelsgzz.supabase.co
+    </string>
+</resources>
