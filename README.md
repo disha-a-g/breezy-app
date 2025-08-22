@@ -26,7 +26,7 @@ Screenshots are stored in Google Drive for organization: [Breezy Screenshots](ht
 ## Team Members 🧑‍🤝‍🧑
 
 * Michael Lee
-* Disha Ashok Girish
+* Disha A
 
 ## APIs Used 🛠️
 
